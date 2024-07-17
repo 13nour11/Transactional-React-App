@@ -1,3 +1,9 @@
+To run the db.json server => 
+1- open the Visiual Studio Code terminal 
+2- write that cmd => npx json-server --watch db.json --port 5000
+3- run the react project => npm run dev
+
+===========================================================
 <<<<<<< HEAD
 # RouteTask
 By using ReactJS  ,TailwindCss and React-chartjs2
